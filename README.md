@@ -39,7 +39,7 @@ Data visualization is a powerful skill for interpreting and communicating data i
    - Utilizing advanced features of the libraries
 
 ## Screenshots
-<img src="./Netflix_DataAnalysis/Screenshot 2024-07-29 145338.png">
+<img src="PowerBI_Project/Netflix_DataAnalysis/Screenshot 2024-07-29 145338.png">
 
 ## Tools and Libraries
 
