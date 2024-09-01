@@ -8,6 +8,7 @@ This repository documents my journey of learning data visualization, excluding t
 
 - [Introduction](#introduction)
 - [Learning Path](#learning-path)
+- [Screenshot](#screenshots)
 - [Tools and Libraries](#tools-and-libraries)
 - [Resources](#resources)
 
@@ -36,6 +37,9 @@ Data visualization is a powerful skill for interpreting and communicating data i
 5. **Advanced Data Visualization Techniques**
    - Exploring more complex visualizations
    - Utilizing advanced features of the libraries
+
+## Screenshots
+<img src="PowerBI_Project/Netflix_DataAnalysis/Screenshot 2024-07-29 145338.png">
 
 ## Tools and Libraries
 
